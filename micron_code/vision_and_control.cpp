@@ -24,7 +24,7 @@
 #include "3d_visualization.h"
 #include  "camera.h"
 
-const double SAFETY_DISTANCE = 600;  // in um should be 700
+const double SAFETY_DISTANCE = 400;  // in um should be 700
 
 const bool RECORD_CLOUD =true;
 const bool RECORD_TRAJ =true;
